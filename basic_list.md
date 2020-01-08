@@ -25,9 +25,13 @@
   * Sidecar 側車
   * Margarita 瑪格麗特
   * Cosmopolitan 柯夢波丹
+  * White Lady 白色佳人
+  * XYZ
+- Bailey's 貝禮斯
 - Campari 金巴利
   * Negroni 尼格羅尼
   * Americano 美國佬
+  * Spumoni
 - Vermouth 味美思
   * Martini Dry 乾馬丁尼
   * Sweet Vermouth 甜苦艾酒
